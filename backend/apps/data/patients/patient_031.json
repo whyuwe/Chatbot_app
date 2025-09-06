@@ -1,0 +1,14 @@
+{
+    "patient_id": "031",
+    "name": "Peggy Lam",
+    "dob": "1989-05-11",
+    "gender": "Male",
+    "phone": "890.219.9264x533",
+    "email": "mistydavis@example.org",
+    "address": "703 Stark Harbor\nRussellchester, DE 84696",
+    "insurance": {
+        "carrier": "Kim, King and Jones",
+        "member_id": "MEM869909",
+        "group_no": "GRP025"
+    }
+}

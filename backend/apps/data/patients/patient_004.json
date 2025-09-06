@@ -1,0 +1,14 @@
+{
+    "patient_id": "004",
+    "name": "Sean Martin",
+    "dob": "1963-12-18",
+    "gender": "Male",
+    "phone": "2812211625",
+    "email": "iblack@example.org",
+    "address": "5997 Case Falls\nAaronshire, ME 51734",
+    "insurance": {
+        "carrier": "Williams Group",
+        "member_id": "MEM831342",
+        "group_no": "GRP019"
+    }
+}

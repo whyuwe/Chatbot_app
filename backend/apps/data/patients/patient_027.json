@@ -1,0 +1,14 @@
+{
+    "patient_id": "027",
+    "name": "Joseph Carney",
+    "dob": "2000-03-29",
+    "gender": "Male",
+    "phone": "280.805.8810",
+    "email": "uarnold@example.org",
+    "address": "7128 Sullivan Grove\nKatherinefort, AR 44343",
+    "insurance": {
+        "carrier": "Beard and Sons",
+        "member_id": "MEM681844",
+        "group_no": "GRP049"
+    }
+}

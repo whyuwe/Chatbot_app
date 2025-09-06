@@ -1,0 +1,14 @@
+{
+    "patient_id": "018",
+    "name": "Terry Fuller",
+    "dob": "1999-02-14",
+    "gender": "Other",
+    "phone": "(570)466-6199",
+    "email": "lopezmartha@example.org",
+    "address": "35762 Thompson Hill Suite 265\nRogerside, ND 22383",
+    "insurance": {
+        "carrier": "Walker Inc",
+        "member_id": "MEM209541",
+        "group_no": "GRP013"
+    }
+}

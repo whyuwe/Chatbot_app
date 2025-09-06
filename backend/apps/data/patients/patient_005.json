@@ -1,0 +1,14 @@
+{
+    "patient_id": "005",
+    "name": "Lauren Compton",
+    "dob": "1962-09-17",
+    "gender": "Female",
+    "phone": "(701)221-4127x934",
+    "email": "lisa39@example.com",
+    "address": "861 John Fort\nKellyside, UT 47526",
+    "insurance": {
+        "carrier": "Atkins-Duran",
+        "member_id": "MEM497650",
+        "group_no": "GRP037"
+    }
+}

@@ -1,0 +1,317 @@
+[
+    {
+        "timestamp": "2025-09-05 20:06:37",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 20:06:40",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 20:06:43",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 20:14:16",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 20:20:06",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:07:34",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:07:44",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:09:10",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:09:13",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:09:16",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:10:04",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:10:09",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:14:42",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:15:46",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:15:51",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:17:02",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:17:07",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:17:10",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:25:07",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:25:33",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:28:34",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:28:37",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:28:46",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:28:51",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:28:55",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:29:52",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:29:55",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:30:27",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:30:33",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-05 23:31:47",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 10:33:40",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 10:34:50",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 10:35:39",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 10:36:04",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:01:56",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:03:53",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:11:18",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:11:57",
+        "level": "INFO",
+        "message": "Retrieved 40 patients"
+    },
+    {
+        "timestamp": "2025-09-06 11:12:20",
+        "level": "INFO",
+        "message": "Fetched 30 insurance records"
+    },
+    {
+        "timestamp": "2025-09-06 11:18:14",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:18:18",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:18:23",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:18:28",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:18:32",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:31:37",
+        "level": "INFO",
+        "message": "Dashboard data retrieved successfully"
+    },
+    {
+        "timestamp": "2025-09-06 11:31:45",
+        "level": "INFO",
+        "message": "Retrieved 40 patients"
+    },
+    {
+        "timestamp": "2025-09-06 11:32:03",
+        "level": "INFO",
+        "message": "Retrieved 40 patients"
+    },
+    {
+        "timestamp": "2025-09-06 11:32:09",
+        "level": "INFO",
+        "message": "Retrieved 40 patients"
+    },
+    {
+        "timestamp": "2025-09-06 11:32:20",
+        "level": "INFO",
+        "message": "Fetched 30 insurance records"
+    },
+    {
+        "timestamp": "2025-09-06 11:37:56",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:38:26",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:42:26",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:44:06",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 11:48:02",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 13:26:14",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 13:41:37",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 13:56:45",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 14:07:18",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 14:07:29",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 14:07:31",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 14:07:33",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 14:07:46",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    },
+    {
+        "timestamp": "2025-09-06 14:26:18",
+        "level": "INFO",
+        "message": "Logger initialized successfully."
+    }
+]

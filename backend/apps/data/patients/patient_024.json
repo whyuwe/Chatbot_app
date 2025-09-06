@@ -1,0 +1,14 @@
+{
+    "patient_id": "024",
+    "name": "Natalie Perez",
+    "dob": "1947-06-30",
+    "gender": "Other",
+    "phone": "935.970.1583x1229",
+    "email": "bharris@example.org",
+    "address": "24993 Amanda Brooks\nPort Oscar, IL 99177",
+    "insurance": {
+        "carrier": "Turner, Harris and Williams",
+        "member_id": "MEM513202",
+        "group_no": "GRP001"
+    }
+}

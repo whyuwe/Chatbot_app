@@ -1,0 +1,14 @@
+{
+    "patient_id": "036",
+    "name": "Benjamin Williamson",
+    "dob": "1982-12-18",
+    "gender": "Female",
+    "phone": "(430)681-5437x89042",
+    "email": "medinamelinda@example.net",
+    "address": "USCGC Sutton\nFPO AP 09814",
+    "insurance": {
+        "carrier": "Owens-Edwards",
+        "member_id": "MEM570582",
+        "group_no": "GRP004"
+    }
+}

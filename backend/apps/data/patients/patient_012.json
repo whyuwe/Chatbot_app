@@ -1,0 +1,14 @@
+{
+    "patient_id": "012",
+    "name": "Tammy Franklin",
+    "dob": "2006-06-12",
+    "gender": "Male",
+    "phone": "+1-233-225-6077x1774",
+    "email": "westlynn@example.net",
+    "address": "7125 Selena Summit Suite 510\nSouth Timothystad, PA 36931",
+    "insurance": {
+        "carrier": "Taylor-Williams",
+        "member_id": "MEM458411",
+        "group_no": "GRP040"
+    }
+}

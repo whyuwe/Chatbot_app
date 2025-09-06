@@ -1,0 +1,14 @@
+{
+    "patient_id": "037",
+    "name": "Jose Clayton",
+    "dob": "1957-06-16",
+    "gender": "Other",
+    "phone": "001-745-746-7717x0937",
+    "email": "fdaniels@example.net",
+    "address": "89590 Coleman Trafficway Apt. 729\nSouth Daniel, WY 41592",
+    "insurance": {
+        "carrier": "Baker, Garcia and Dixon",
+        "member_id": "MEM981563",
+        "group_no": "GRP035"
+    }
+}

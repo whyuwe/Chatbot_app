@@ -1,0 +1,14 @@
+{
+    "patient_id": "035",
+    "name": "Jamie Carr",
+    "dob": "1990-08-25",
+    "gender": "Female",
+    "phone": "2836558846",
+    "email": "victor74@example.org",
+    "address": "27570 Fry River\nClaireville, SC 45859",
+    "insurance": {
+        "carrier": "Campbell-Murray",
+        "member_id": "MEM375478",
+        "group_no": "GRP015"
+    }
+}

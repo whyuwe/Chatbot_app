@@ -1,0 +1,32 @@
+2025-09-06 14:54:49,573 | INFO | Dashboard data retrieved successfully
+2025-09-06 14:54:49,610 | INFO | Dashboard data retrieved successfully
+2025-09-06 14:54:57,800 | INFO | Retrieved 40 patient records successfully
+2025-09-06 14:55:01,618 | INFO | Retrieved 40 patient records successfully
+2025-09-06 14:55:05,410 | INFO | Retrieved 40 patient records successfully
+2025-09-06 14:55:11,377 | INFO | Dashboard data retrieved successfully
+2025-09-06 14:55:11,432 | INFO | Dashboard data retrieved successfully
+2025-09-06 14:55:18,494 | INFO | Fetched 30 insurance records
+2025-09-06 14:55:21,051 | INFO | Retrieved 40 patient records successfully
+2025-09-06 14:55:26,719 | INFO | Retrieved 40 patient records successfully
+2025-09-06 15:00:29,860 | INFO | Dashboard data retrieved successfully
+2025-09-06 15:00:29,894 | INFO | Dashboard data retrieved successfully
+2025-09-06 15:00:33,197 | INFO | Retrieved 40 patient records successfully
+2025-09-06 15:00:37,453 | INFO | Retrieved 40 patient records successfully
+2025-09-06 15:01:26,218 | INFO | Retrieved 40 patient records successfully
+2025-09-06 15:02:25,717 | INFO | Patient patient027 created and stored successfully
+2025-09-06 15:02:25,726 | INFO | Appointment booked for patient patient027: {'appointment_id': 'A001', 'patient_id': 'patient027', 'date': '2025-09-06', 'slot': '9:00-10:00', 'status': 'upcoming', 'reminders_sent': []}
+2025-09-06 15:02:28,387 | INFO | Reminder 1/3 sent to yuvraj@gmail.com for appointment {'appointment_id': 'A001', 'patient_id': 'patient027', 'date': '2025-09-06', 'slot': '9:00-10:00', 'status': 'upcoming', 'reminders_sent': ['Reminder-1']}
+2025-09-06 15:02:30,672 | INFO | Reminder 2/3 sent to yuvraj@gmail.com for appointment {'appointment_id': 'A001', 'patient_id': 'patient027', 'date': '2025-09-06', 'slot': '9:00-10:00', 'status': 'upcoming', 'reminders_sent': ['Reminder-1', 'Reminder-2']}
+2025-09-06 15:02:32,958 | INFO | Reminder 3/3 sent to yuvraj@gmail.com for appointment {'appointment_id': 'A001', 'patient_id': 'patient027', 'date': '2025-09-06', 'slot': '9:00-10:00', 'status': 'upcoming', 'reminders_sent': ['Reminder-1', 'Reminder-2', 'Reminder-3']}
+2025-09-06 15:02:47,000 | INFO | Dashboard data retrieved successfully
+2025-09-06 15:02:47,048 | INFO | Dashboard data retrieved successfully
+2025-09-06 15:02:50,555 | INFO | Retrieved 41 patient records successfully
+2025-09-06 15:40:48,094 | INFO | Dashboard data retrieved successfully
+2025-09-06 15:40:48,304 | INFO | Dashboard data retrieved successfully
+2025-09-06 15:45:12,596 | INFO | Retrieved 41 patient records successfully
+2025-09-06 15:45:16,814 | INFO | Retrieved 41 patient records successfully
+2025-09-06 15:45:19,039 | INFO | Retrieved 41 patient records successfully
+2025-09-06 15:45:53,842 | INFO | Retrieved 41 patient records successfully
+2025-09-06 15:47:44,870 | INFO | Retrieved 41 patient records successfully
+2025-09-06 15:48:11,479 | INFO | Dashboard data retrieved successfully
+2025-09-06 15:48:11,560 | INFO | Dashboard data retrieved successfully

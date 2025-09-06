@@ -1,0 +1,14 @@
+{
+    "patient_id": "020",
+    "name": "Cynthia Rodriguez",
+    "dob": "1984-01-25",
+    "gender": "Male",
+    "phone": "(631)978-0585x922",
+    "email": "ronaldhenry@example.com",
+    "address": "0788 Watts Plains Suite 544\nJohnsonborough, PR 69127",
+    "insurance": {
+        "carrier": "Steele-Gibson",
+        "member_id": "MEM395333",
+        "group_no": "GRP023"
+    }
+}

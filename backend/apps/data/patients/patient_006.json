@@ -1,0 +1,14 @@
+{
+    "patient_id": "006",
+    "name": "Kelly Johnson",
+    "dob": "1988-10-10",
+    "gender": "Female",
+    "phone": "725-552-9119x823",
+    "email": "jerry84@example.com",
+    "address": "838 Juarez Field Apt. 309\nMcleanland, WY 38566",
+    "insurance": {
+        "carrier": "West and Sons",
+        "member_id": "MEM431304",
+        "group_no": "GRP044"
+    }
+}

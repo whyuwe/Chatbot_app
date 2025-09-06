@@ -1,0 +1,14 @@
+{
+    "patient_id": "011",
+    "name": "Maria Lewis",
+    "dob": "1972-04-20",
+    "gender": "Male",
+    "phone": "+1-767-836-4035x105",
+    "email": "joshua32@example.com",
+    "address": "5454 Lisa Curve Suite 571\nSouth Diamond, VT 24118",
+    "insurance": {
+        "carrier": "Smith-Hill",
+        "member_id": "MEM656097",
+        "group_no": "GRP002"
+    }
+}

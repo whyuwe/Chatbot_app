@@ -1,0 +1,14 @@
+{
+    "patient_id": "002",
+    "name": "Matthew Rios",
+    "dob": "1952-09-04",
+    "gender": "Female",
+    "phone": "+1-358-323-5490x5624",
+    "email": "mflowers@example.com",
+    "address": "486 Derrick Stream\nKimberlyview, IA 83939",
+    "insurance": {
+        "carrier": "Hall LLC",
+        "member_id": "MEM540730",
+        "group_no": "GRP024"
+    }
+}

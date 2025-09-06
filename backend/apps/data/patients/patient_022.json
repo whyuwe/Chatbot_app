@@ -1,0 +1,14 @@
+{
+    "patient_id": "022",
+    "name": "Stephanie Duran",
+    "dob": "2003-02-22",
+    "gender": "Other",
+    "phone": "(870)263-3878",
+    "email": "edwardwatkins@example.net",
+    "address": "81541 Raymond Cliffs Apt. 934\nMichelleport, TX 77263",
+    "insurance": {
+        "carrier": "Merritt-Butler",
+        "member_id": "MEM477165",
+        "group_no": "GRP006"
+    }
+}

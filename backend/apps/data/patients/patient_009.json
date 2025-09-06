@@ -1,0 +1,14 @@
+{
+    "patient_id": "009",
+    "name": "Earl Kidd",
+    "dob": "1991-05-26",
+    "gender": "Male",
+    "phone": "446-687-4100x000",
+    "email": "martinsamuel@example.org",
+    "address": "488 Shannon Spur\nNew Yeseniaton, TN 19655",
+    "insurance": {
+        "carrier": "Hoffman-Garrett",
+        "member_id": "MEM733381",
+        "group_no": "GRP042"
+    }
+}

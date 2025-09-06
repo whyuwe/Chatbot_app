@@ -1,0 +1,14 @@
+{
+    "patient_id": "013",
+    "name": "Brittney Shields",
+    "dob": "1983-06-26",
+    "gender": "Other",
+    "phone": "001-360-839-5548x81199",
+    "email": "justinherrera@example.org",
+    "address": "99617 Mcdowell Inlet\nNew Sherry, NH 45266",
+    "insurance": {
+        "carrier": "Roberts-Gonzalez",
+        "member_id": "MEM282661",
+        "group_no": "GRP003"
+    }
+}

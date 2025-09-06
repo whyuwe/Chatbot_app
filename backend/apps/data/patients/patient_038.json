@@ -1,0 +1,14 @@
+{
+    "patient_id": "038",
+    "name": "Dylan Wagner",
+    "dob": "1986-09-11",
+    "gender": "Other",
+    "phone": "474-440-1721",
+    "email": "bpeterson@example.com",
+    "address": "747 Elliott Points Suite 030\nErikaborough, AS 21604",
+    "insurance": {
+        "carrier": "Rogers, Fisher and Garcia",
+        "member_id": "MEM747833",
+        "group_no": "GRP040"
+    }
+}

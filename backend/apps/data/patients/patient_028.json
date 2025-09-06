@@ -1,0 +1,14 @@
+{
+    "patient_id": "028",
+    "name": "Frederick Aguirre",
+    "dob": "1949-02-23",
+    "gender": "Male",
+    "phone": "243.522.8851x851",
+    "email": "justinpatrick@example.org",
+    "address": "3639 Sims Rapid\nLopezberg, OR 05720",
+    "insurance": {
+        "carrier": "Hernandez Group",
+        "member_id": "MEM453847",
+        "group_no": "GRP037"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "patient_id": "003",
+    "name": "Christine Mays",
+    "dob": "1980-06-25",
+    "gender": "Male",
+    "phone": "992.217.1062x773",
+    "email": "james76@example.com",
+    "address": "951 Diane Streets\nPortershire, DC 01472",
+    "insurance": {
+        "carrier": "Garcia, Henderson and Wagner",
+        "member_id": "MEM720710",
+        "group_no": "GRP028"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "patient_id": "026",
+    "name": "Lacey Williams",
+    "dob": "1975-05-18",
+    "gender": "Male",
+    "phone": "751.399.3095x97792",
+    "email": "ricky11@example.net",
+    "address": "6019 Robinson Cliff\nSouth Nicholas, NC 65058",
+    "insurance": {
+        "carrier": "Smith-Rogers",
+        "member_id": "MEM336364",
+        "group_no": "GRP045"
+    }
+}

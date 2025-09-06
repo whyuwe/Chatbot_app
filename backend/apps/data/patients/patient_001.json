@@ -1,0 +1,14 @@
+{
+    "patient_id": "001",
+    "name": "Karen Vasquez",
+    "dob": "1965-03-31",
+    "gender": "Male",
+    "phone": "001-555-535-9020x285",
+    "email": "dking@example.com",
+    "address": "335 Calderon Pines\nEast Angelaborough, VA 53828",
+    "insurance": {
+        "carrier": "Avila, Stephens and Thomas",
+        "member_id": "MEM799126",
+        "group_no": "GRP044"
+    }
+}
